@@ -8,7 +8,7 @@
 </p>
 
 💬 **Ask me about** Data Science, Machine Learning, Deep Learning, and NLP  
-📫 **How to reach me**: kaoutar.miftah@example.com  
+📫 **How to reach me**: kaoutar.miftah@gmail.com  
 
 ---
 <h3 align="left">Connect with me:</h3>
